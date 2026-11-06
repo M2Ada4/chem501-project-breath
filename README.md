@@ -10,3 +10,7 @@ Business business business, numbers is this working
 1. This may work
 2. Hopefully
 3. No promises
+
+# To Upload
+
+git add -> git push
